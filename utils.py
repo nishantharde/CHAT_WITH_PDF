@@ -9,7 +9,7 @@ from langchain.chains import create_history_aware_retriever, create_retrieval_ch
 from langchain.chains.combine_documents import create_stuff_documents_chain
 from langchain.embeddings.sentence_transformer import SentenceTransformerEmbeddings
 from langchain.schema import Document
-from langchain.document_loaders.pdf import PyPDFLoader
+from langchain.document_loaders import PyPDFLoader
 from langchain_community.vectorstores import Pinecone as PineconeStore
 from dotenv import load_dotenv
 from pinecone import Pinecone
