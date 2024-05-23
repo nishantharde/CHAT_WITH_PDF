@@ -9,5 +9,5 @@ python-dotenv==1.0.1
 pinecone-client==4.0.0
 # pinecone==4.0.0
 load_dotenv==0.1.0
-sentence-transformers==0.3.0
+sentence-transformers
 langchain-community==0.2.0
