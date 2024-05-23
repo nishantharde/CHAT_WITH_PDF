@@ -1,0 +1,13 @@
+streamlit==1.29.0
+langchain==
+langchain-google-genai==
+pypdf==
+langchain-openai==
+dotenv==1.0.1
+python==3.9.6
+pygame==2.5.2
+toml==
+setuptools==70.0.0
+pep517==
+
+wheel=0.43.0
